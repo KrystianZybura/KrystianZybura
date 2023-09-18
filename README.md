@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krystian Żybura</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">React Frontend Developer</h3>
 
 - 🔭 I’m currently working on [Movies Browser](https://github.com/WoytekMig/movies-browser)
 
