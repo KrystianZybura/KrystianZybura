@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Movies Browser](https://github.com/WoytekMig/movies-browser)
 
-- 🌱 I’m currently learning **React Context, TanStack Query,**
+- 🌱 I’m currently learning **React Context, TanStack Query**
 
 - 💬 Ask me about **React, Redux and CSS**
 
