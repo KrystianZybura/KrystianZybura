@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Krystian Żybura</h1>
-<h3 align="center">React Frontend Developer</h3>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999&color=8F2CF7&background=FF1EB600&width=435&height=100&lines=React+Frontend+Developer;Loves+learning+modern+technologies" alt="Typing SVG" /></a>
+</p>
+
+# 💫 About Me:
 - 🔭 I’m currently working on [Movies Browser](https://github.com/WoytekMig/movies-browser)
 
 - 🌱 I’m currently learning **React Context, TanStack Query**
