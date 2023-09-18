@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krystian Żybura</h1>
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999&color=8F2CF7&background=FF1EB600&width=435&height=100&lines=React+Frontend+Developer;Loves+learning+modern+technologies" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=942DFF&center=true&vCenter=true&width=520&height=100&lines=React+Frontend+Developer;Loves+learning+modern+technologies" alt="Typing SVG" /></a>
+</a>
 </p>
 
 # 💫 About Me:
