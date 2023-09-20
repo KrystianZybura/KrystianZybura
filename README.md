@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://krystianzybura.github.io/Personal-Homepage/](https://krystianzybura.github.io/Personal-Homepage/)
 
-- ⚡ Fun fact **Coding is not that difficult.**
+- ⚡ Fun fact **I'm trying to be funny sometimes**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krystian-żybura-062929288) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/168299279807k)
