@@ -7,7 +7,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [Movies Browser](https://github.com/WoytekMig/movies-browser)
 
-- 🌱 I’m currently learning **TypeScript, Bootstrap, Next.js**
+- 🌱 I’m currently learning **TypeScript, Bootstrap, Next.js, SASS**
 
 - 💬 Ask me about **React, Redux and CSS**
 
