@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Movies Browser](https://github.com/WoytekMig/movies-browser)
+- 🔭 I’m currently working on [URL Shortener](https://github.com/KrystianZybura/url-shortening-api-landing-page)
 
 - 🌱 I’m currently learning **TypeScript, Bootstrap, Next.js, Sass**
 
